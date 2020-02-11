@@ -1,0 +1,28 @@
+h1{
+    font-family: Forte;
+    color:white;
+    background: blue;
+    text-align:center;
+}
+p{
+    font-family: Forte;
+    color: white;
+    background:orangered;
+    text-align: justify;
+    font-size: 24px;
+}
+div{
+    height: 300px
+    width:200px;
+    background : url("img1.jpg");
+    background-size: cover;
+}
+div.one{
+    height:500px;
+    width: 500px;
+    background-color: white;
+}
+p.two{
+    background:greenyellow;
+    color:green;
+}
